@@ -61,7 +61,7 @@
 
 </div>
   
-
+<!--
 <Br>
 <hr>
 <Br>
@@ -73,26 +73,20 @@
 <Br>
 <hr>
 <Br>
+-->
 <h1>Certifications! 🏆</h1>
 <Br>
   
-|[![](https://img.shields.io/badge/Introduction%20to%20Python-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+|[![](https://img.shields.io/badge/UX%2FUI%20-%20google)](https://img.shields.io/badge/FrontEnd%20Developer%20-googel)|[![](https://img.shields.io/badge/%20FRONT%20%20END%20DEVELOPER%20-fron?logoColor=%09%230000FF&color=%23000080)](https://img.shields.io/badge/COURSE%20INTENSIVE%20OF%20LEVEL%20ENGLISH%20-english?logoColor=blue)|[![](https://img.shields.io/badge/%20COURSE%20INTENSIVE%20OF%20LEVEL%20ENGLISH%20-english?logoColor=%09%230000FF&color=orange)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Advanced%20Certificate%20in%20iOS%20App%20Development%20with%20Swift%20-ios?logoColor=%09%230000FF&color=%09%230000FF)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+<!--
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
-  
- 
+|
+[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)| 
+  -->
 
 <Br>
 <hr>
-<Br>
-<h1>GitHub Stats! 📊</h1>
-<Br>
-  
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
 
- 
-<Br>
-<hr>
 <Br>
 <h1>Thank You! 🤵 </h1>
 <Br>
