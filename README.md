@@ -26,7 +26,7 @@
 <Br>
 <h1>Tools I use! 🛠️</h1>
 <Br>
-<p align="center">
+<div align=center> 
  <a target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
@@ -36,6 +36,7 @@
 <a  target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
+  <br>
 <a  target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
@@ -46,7 +47,7 @@
 <a  target="_blank">
   <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </a>
-
+<br>
 <a  target="_blank">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
@@ -58,7 +59,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
-</p>
+</div>
   
 
 <Br>
