@@ -6,7 +6,7 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I have a degree in Electronic Instrumentation Engineering.
+- 🏫: Currently pursuing a Master's degree in Software Engineering at the University of Guadalajara
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m currently learning every day. 🧠💻🤖
 - 😄  Pronouns: He/His
